@@ -24,3 +24,8 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
+
+### Below is the URL for application
+```
+https://housepricepredapp.herokuapp.com/
+```
